@@ -1,6 +1,6 @@
 NAME - PHONE - EMAIL
 
-Hazel Yinuo Ding - +1 646-525-0081 - hd@ddevjani.com
+Hazel Ding - +1 646-525-0081 - hd@ddevjani.com
 
 ## Summary
 Relentless venture catalyst with *deep AI/Web3 expertise* and *hands-on experience* sourcing, evaluating, and supporting early-stage startups. Exceptional at *deal flow management*, *founder engagement*, and *operational execution*. Adept at synthesizing *complex technical insights* into clear, actionable investment theses. Seeking to leverage a *passion for emerging technologies* and *proven leadership skills* to drive growth at Bloomberg Beta.
