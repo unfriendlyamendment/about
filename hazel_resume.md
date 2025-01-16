@@ -1,5 +1,3 @@
-NAME - PHONE - EMAIL
-
 Hazel Ding - +1 646-525-0081 - hd@ddevjani.com
 
 ## Summary
