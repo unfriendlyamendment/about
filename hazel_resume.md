@@ -23,13 +23,13 @@ Columbia University, Fu School of Engineering
 
 ## Work Experience
 
-Investment & Research Associate
+Investment & Research Associate  
 Reliable Bits – New York, NY _(Dec 2022 – Present)_  
 - Scouted 110+ early-stage pitches in a 4-month sprint, successfully converting to 3 seed investments  
 - Authored 2 white papers on frontier tech (AI & Web3), shaping the firm’s internal research agenda and establishing Reliable Bits’ thought leadership among targeted founder communities  
 - Orchestrated founder diligence processes and advised on post-investment integration  
 
-Strategic Growth & Partnerships (APAC Lead)
+Strategic Growth & Partnerships (APAC Lead)  
 [DAOstar](https://daostar.org/) _(Oct 2022 – Present)_  
 - Accelerated adoption of emerging Web3 metadata standards by 20+ organizations through data-driven market mapping and strategic alliance building  
 - Executed an APAC go-to-market plan that grew regional membership by ~40% in six months, including 5 flagship ecosystem partnerships. Set up a fellowship program that led to publishing 6 [industry reports](https://daostar.org/research).    
@@ -41,7 +41,7 @@ D2O GOVERNANCE GAME [(Website)](https://metagov.github.io/d20-governance/) [(Git
 - Maintained an 80% user retention rate by integrating iterative feedback loops and in-platform engagement mechanics  
 - Secured speaking engagements at Brooklyn Public Library and DWeb Camp., to demonstrate the project’s educational impact, fueling interest from several Web3 educational startups  
 
-Operations & Growth
+Operations & Growth  
 [Freja NYC](https://frejanyc.com/) – New York, NY _(June 2020 – June 2021)_  
 - Increased online engagement by *2.3×* within 4 months by developing a multi-channel marketing roadmap and optimizing user journeys  
 - Spearheaded product launches (new eco-friendly SKUs), negotiating supplier terms and branding deliverables to align with Freja’s sustainability ethos  
@@ -70,7 +70,7 @@ Operations & Growth
 - **Venture & Ops**: Investment memo writing, deal sourcing & screening, founder diligence, pitch deck assessment, market landscaping  
 - **Research & Policy**: AI governance, DAO frameworks, data ethics, privacy & security compliance  
 - **Soft Skills**: Relationship cultivation, workshop facilitation, strategic communication, cross-cultural leadership  
-- **Languages**: English (Native), Mandarin (Native), Arabic (Intermediate)  
+- **Languages**: English (Native), Mandarin (Native), Arabic (High Intermediate), Russian (Elementary)  
 
 ## Why Hazel at Bloomberg Beta? 
 
